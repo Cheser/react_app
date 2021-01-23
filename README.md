@@ -1,4 +1,4 @@
-# react_app
+# Запуск
 # В корне:
 * npm install
 * npm run start
